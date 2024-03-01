@@ -12,6 +12,15 @@ Request Logic Implementation: I developed the logic to accept deals details, val
  1. Successfully creating the deal
 ![image](https://github.com/hadeel-ux/deals-project/assets/73706746/c175e7dc-ff59-4a7e-9992-3b33e3752eaf)
 
+ 2. Invalid Currency 
+![image](https://github.com/hadeel-ux/deals-project/assets/73706746/30baa5f5-bbc9-4887-b527-c6a8010ee05d)
+
+ 3. Duplicated Deals
+![image](https://github.com/hadeel-ux/deals-project/assets/73706746/8e34f0c0-6596-49f2-9a31-8531d2b8bdab)
+
+ 4. Empty Fields
+![image](https://github.com/hadeel-ux/deals-project/assets/73706746/d8b8e3e2-3ff9-4516-b9c0-22bb2b096cb6)
+
 
 Database Interaction: I implemeted database interaction to persist the imported data into the PostgreSQL database.
 
