@@ -1,4 +1,4 @@
-![image](https://github.com/hadeel-ux/deals-project/assets/73706746/e1a9be53-84ab-4573-b071-44627b6e9bdc)# deals-project
+# deals-project
 
 Project Setup: I created a Maven project to manage dependencies and build the application Using spring boot and java version 11.
   - Clone the repo
